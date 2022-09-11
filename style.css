@@ -24,3 +24,17 @@
     flex-direction: column;
     align-items: center;
 }
+
+#pictures_row{
+    display: flex;
+    flex-direction: row;
+    margin-top: 42px;
+    margin-bottom: 42px;
+    gap: 30px;
+}
+
+#pictures_row #walter_baby{
+    width: 226px;
+    height: 301px;
+
+}

@@ -1,3 +1,20 @@
 *{
     background: #1ba11a url(/assets/tile.png) top left repeat;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    margin: 0;
+	padding: 0;
+}
+
+#title{
+    color: white;
+    font-family: times,helvetic,sans-serif;
+    font-size: 112px;
+    margin: 0;
+    padding-top: 12px;
+
+}
+
+#subtitle{
+    color: #fff54f;
+    font-size: 40px;
 }

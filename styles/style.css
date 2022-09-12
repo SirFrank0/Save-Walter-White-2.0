@@ -111,3 +111,46 @@ body{
 #don-3{
     color: #ffe107;
 }
+
+#don-1{
+    background: url(/assets/bow_right.png)  no-repeat 650px 105px;
+}
+
+#don-1 p{
+    background: url(/assets/bow_left.png) no-repeat 110px 85px;
+    padding: 22px;
+}
+
+.don-img-1, .don-img-2{
+    margin-bottom: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.visitors{
+    background-color: black;
+    width: 840px;
+    height: 185px;
+    text-align: center;
+}
+
+#text-1{
+    margin-top: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+#text-2{
+    color: #fff54f;
+    font-size: 25px;
+}
+
+
+
+footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    
+}

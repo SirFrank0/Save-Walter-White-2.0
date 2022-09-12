@@ -91,3 +91,23 @@ body{
     display: flex;
     margin-top: 24px;
 }
+
+.donations-text {
+    text-align: center;
+    color: #fff54f;
+    font-size: 42px;
+    font-weight: bold;
+    
+}
+
+#don-1, #don-2, #don-3 {
+    margin-bottom: 42px;
+    margin-top: 42px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 22px;
+}
+
+#don-3{
+    color: #ffe107;
+}

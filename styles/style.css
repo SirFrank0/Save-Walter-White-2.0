@@ -158,3 +158,11 @@ footer{
 .contador{
     margin-top: 20px;
 }
+
+
+@media (max-width: 576px)
+{
+
+    body{
+        font-size: 4px;
+    }
